@@ -1,0 +1,22 @@
+{
+  "name": "CONSTRUÇÃO E REFORMAS em São Pedro da Aldeia RJ",
+  "short_name": "Construção e Reformas",
+  "description": "Construção civil, obras do zero, reformas em geral e acabamentos com construtor legalizado e equipe completa com mais de 35 anos de experiência em São Pedro da Aldeia RJ.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#07172b",
+  "theme_color": "#0284c7",
+  "icons": [
+    {
+      "src": "/images/CONSTRUÇÃO E REFORMAS DE CASAS EM SAO PEDRO DA ALDEIA RJ-favicon.png",
+      "sizes": "48x48 96x96 144x144 192x192 512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png"
+    }
+  ]
+}
